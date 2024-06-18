@@ -1,0 +1,26 @@
+.icon-margin {
+    margin-top: 10px;
+}
+
+.feature-icon-small img {
+    width: 50px;
+    height: auto;
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
